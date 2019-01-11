@@ -10,7 +10,7 @@ $ npm install @ofuen/tiny
 ## Usage
 
 ```js
-const tiny = require("@bamblehorse/tiny");
+const tiny = require("@ofuen/tiny");
 
 tiny("So much space!");
 //=> "Somuchspace!"
