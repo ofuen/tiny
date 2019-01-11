@@ -1,0 +1,2 @@
+# tiny
+First npm module
